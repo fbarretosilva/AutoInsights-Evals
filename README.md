@@ -1,4 +1,5 @@
 **Para usar esta skill**
+
 1 - Clone o repositório em sua máquina
 
 2 - Abra o repositório em um editor de código
